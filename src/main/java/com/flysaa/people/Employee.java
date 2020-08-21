@@ -1,6 +1,6 @@
 class Employee {
 Employee () {}
-String age;
+int age;
 
 
 }
