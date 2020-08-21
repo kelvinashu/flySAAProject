@@ -1,5 +1,5 @@
 class Employee{
 Employee () {}
-String age;
+String surname;
 
 }
