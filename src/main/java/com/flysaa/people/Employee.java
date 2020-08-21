@@ -1,5 +1,10 @@
 class Employee{
-Employee () {}
+
 String surname;
+int age;
+
+public Employee(){
+
+}
 
 }
