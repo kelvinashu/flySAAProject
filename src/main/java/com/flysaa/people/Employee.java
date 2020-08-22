@@ -5,6 +5,7 @@ int age;
 long phoneNumber;
 String password;
 String gender;
+String email;
 public Employee(){
 
 }
